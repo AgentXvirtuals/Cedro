@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "@types/node": "^22.15.21",
+    "@types/vue": "^1.0.31",
+    "pinia": "^3.0.2"
+  }
+}
